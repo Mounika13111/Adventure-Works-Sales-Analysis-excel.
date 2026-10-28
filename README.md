@@ -34,7 +34,7 @@ This project uses Microsoft Excel to analyze Adventure Works sales data and unde
 - Interactive slicers
 - Data visualization
 
-##Dashboard Preview
+## Dashboard Preview
 ![Adventure Works Sales Dashboard](./Adventure%20works%20Sales%20Excel.png)
 
 ## Project Files
